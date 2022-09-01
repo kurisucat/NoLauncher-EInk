@@ -3,7 +3,7 @@
  * Created by Saranomy on 2020-04-29.
  * Under Apache License Version 2.0, http://www.apache.org/licenses/
  */
-package com.saranomy.nolauncher;
+package com.kurisucat.nolauncher_for_ink;
 
 import java.util.ArrayList;
 import java.util.Collections;
